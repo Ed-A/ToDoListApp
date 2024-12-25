@@ -1,0 +1,16 @@
+.x-btn{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    font-weight: bold;
+    background-color: hsl(338, 49%, 70%);
+    color: black;
+    margin-bottom: 10px;
+    
+}
+
+.x-btn:hover{
+    cursor: pointer;       
+}

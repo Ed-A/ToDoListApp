@@ -1,0 +1,28 @@
+
+# React (Client) Ignored Files
+client/node_modules/
+client/.pnp
+client/.pnp.js
+client/apiKey.env
+client/coverage/
+client/build/
+client/.DS_Store
+client/*.env
+client/.env
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# ASP.NET (Server) Ignored Files
+server/bin/
+server/obj/
+server/*.db
+
+# General Ignore Rules
+.DS_Store
+Thumbs.db
+.env

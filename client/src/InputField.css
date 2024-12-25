@@ -1,0 +1,21 @@
+.form-div{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+}
+
+input{
+    width: 70vw;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.submit{
+    width: 80px;
+    height: 30px;
+    background-color: hsl(338, 49%, 60%);
+    border-radius: 25px;
+    border: 2px solid black;
+    color: white;
+}
