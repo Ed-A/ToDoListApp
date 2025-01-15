@@ -2,6 +2,7 @@
 
 ## Overview
 This is a full-stack To-Do List application built to demonstrate CRUD operations with task prioritization. The app uses:
+- **MVC structure**
 - **Frontend**: React.js
 - **Backend**: ASP.NET Core API
 - **Database**: SQL Server
